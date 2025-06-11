@@ -1,0 +1,12 @@
+# ninja log v6
+2	57	1749673584110105608	build.ninja	27369c63a0dc7b49
+1	173	1749673371180572509	CMakeFiles/DS_assignment_4.dir/main.cpp.o	b232dbe14a335926
+2	602	1749673371182051941	CMakeFiles/DS_assignment_4.dir/Animal.cpp.o	887f963b546c3f1
+3	606	1749673371182229360	CMakeFiles/DS_assignment_4.dir/Elephant.cpp.o	d56365b63705e07b
+3	607	1749673371182943784	CMakeFiles/DS_assignment_4.dir/Penguin.cpp.o	dde12dca9313527c
+3	607	1749673371183132244	CMakeFiles/DS_assignment_4.dir/Monkey.cpp.o	7b019e3c9e6fb446
+173	776	1749673371353100527	CMakeFiles/DS_assignment_4.dir/Zoo.cpp.o	437274db7fe924e9
+3	606	1749673371182463320	CMakeFiles/DS_assignment_4.dir/Lion.cpp.o	f07559601aa4eda9
+13	376	1749673551311441558	libDS_assignment_4.a	532f32fa8014d4bc
+3	511	1749673589999453685	CMakeFiles/DS_assignment_4.dir/main.cpp.o	b232dbe14a335926
+511	542	1749673590507292471	libDS_assignment_4.a	7c79a290562f5b7a
