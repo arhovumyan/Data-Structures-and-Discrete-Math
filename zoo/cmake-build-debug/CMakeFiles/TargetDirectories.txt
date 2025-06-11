@@ -1,0 +1,3 @@
+/Users/aro/CLionProjects/zoo/cmake-build-debug/CMakeFiles/zoo.dir
+/Users/aro/CLionProjects/zoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aro/CLionProjects/zoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
